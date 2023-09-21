@@ -1,5 +1,5 @@
 # html-to-scratch
-||-DISCLAIMER: Not all files will work as some html features dont have scratch alternatives-||   Desc: Takes HTML files and converts them to .sb3.
+||-DISCLAIMER: Not all files will work as some html features dont have scratch alternatives-||   Desc: Takes HTML files and converts them to .sb3. Recomended usage: converting previously scratch to html files back to scratch/sb3.
 
 
 # Example usage:
